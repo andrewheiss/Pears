@@ -24,7 +24,7 @@
 <body <?php body_class(); ?>>
 
 <header role="banner" class="group">
-	<a href="<?php echo site_url(); ?>" id="logo">
+	<a href="<?php echo home_url(); ?>" id="logo">
 		Pears <em>are common patterns of markup &amp; style</em>
 	</a>
 </header>
